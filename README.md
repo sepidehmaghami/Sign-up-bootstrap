@@ -1,5 +1,5 @@
 # internship-sign-up
-Implemented with HTML5 and CSS and Bootstrap
+Implemented with HTML5 and SASS and Bootstrap
 
 [You can see github pages](https://sepidehmaghami.github.io/Sign-up-bootstrap/)
 
